@@ -12,6 +12,10 @@ To your attention - my first game written using the Unity game engine.
 The goal of the project was to hone basic skills, such as transitions between scenes, saving user settings, sound, animation, scripts, etc.
 
 The essence of the game is that the burger must dodge the "enemies" by driving left or right so as not to lose all lives.
+## How to play :question:
+- Movement to the left - A, movement to the right - D;
+- Movement to the left - pressing on the left side of the screen, movement to the right - pressing on the right side of the screen.
 ## How to launch :question:
-Just download the zip archive of the project, unzip it into a working directory and launch the project via Unity Hub.
+- Just download the zip archive of the project, unzip it into a working directory and launch the project via Unity Hub;
+- Or you can directly download builded apk.
 ### Enjoy! :+1:
