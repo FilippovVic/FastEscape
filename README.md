@@ -1,5 +1,5 @@
 # :hamburger: FastEscape :poop:
-:video_game: Unity mini-game
+:video_game: Unity mini-game (WebGL)
 ## Screenshots :camera_flash:
 ![1](https://user-images.githubusercontent.com/113792486/211165164-742dbdfe-46d6-4532-840b-79d1132ddd2e.jpg)
 ![2](https://user-images.githubusercontent.com/113792486/211165169-8264303c-fc15-4ac7-a347-5316b0875511.jpg)
